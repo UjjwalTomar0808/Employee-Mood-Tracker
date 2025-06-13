@@ -57,8 +57,8 @@ A lightweight, full-stack mood tracking app where employees can submit how they 
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/Itz-Sidra/Mini-Employee-Mood-Tracker.git
-cd Mini-Employee-Mood-Tracker
+git clone https://github.com/UjjwalTomar0808/Employee-Mood-Tracker.git
+cd Employee-Mood-Tracker
 ```
 
 ### 2. Install dependencies
